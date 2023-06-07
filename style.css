@@ -1,0 +1,20 @@
+body{background-color: lightgreen;}
+h1,h3{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0.1em 0.1em 0.4em black
+}
+.div{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color:   rgb(88, 173, 113);
+	color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+	padding: 15px;
+    max-width: 80%;
+}
+img{max-width: 300px;}
+img, p{padding: 35px;}
